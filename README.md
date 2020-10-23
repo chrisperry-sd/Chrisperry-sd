@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi I'm Chris - I am a Full Stack Software Engineer living in Shropshire in the Midlands. I'm passionate about creating scalable and reliable applications that provide great user experience.
 
-Knowledgable in Javascript technologies including Typescript, React, React Native, Angular, Koa, Express and NodeJs.
+Knowledgable in Javascript technologies including Typescript, React, React Native, Angular, MOngoDB, Koa, Express and NodeJs.
 
 ## Favourite Technologies:
 
@@ -25,6 +25,7 @@ Knowledgable in Javascript technologies including Typescript, React, React Nativ
 → Typescript
 → React
 → React Native
+→ MongoDB
 → Express
 ```
 

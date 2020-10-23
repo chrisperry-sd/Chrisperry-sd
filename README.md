@@ -31,7 +31,7 @@ Knowledgable in Javascript technologies including Typescript, React, React Nativ
 ## For Fun?
 
 ```
-🏉 semi-professional rugby player
+🏉 Semi-professional Rugby Player
 🏋️ Keeping Active
 ```
 

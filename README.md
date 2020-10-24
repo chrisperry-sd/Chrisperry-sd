@@ -44,6 +44,10 @@ Knowledgable in Javascript technologies including Typescript, React, React Nativ
 <h1 align="center">Hi 👋, I'm Chris Perry</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
+- 🔭 I’m currently working on **Dimes & Measured**
+
+- 📫 How to reach me **chrisperry.sd@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chrisdperry-sd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisdperry-sd" height="30" width="40" /></a>

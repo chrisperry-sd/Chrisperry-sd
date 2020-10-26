@@ -48,7 +48,7 @@ Knowledgable in Javascript technologies including Typescript, React, React Nativ
 
 - 📫 How to reach me **chrisperry.sd@gmail.com**
 
-##About me
+## About me
 
 I am a fast learner and a driven developer, who likes to be challenged and work on tight schedules. I enjoy embracing and adapting to new technologies and the possibilities to make our lives better through technology.
 

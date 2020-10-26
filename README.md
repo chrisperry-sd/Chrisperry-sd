@@ -41,12 +41,20 @@ Knowledgable in Javascript technologies including Typescript, React, React Nativ
 
 👉[LinkedIn](www.linkedin.com/in/chrisDperry-sd)👈
 -->
-<h1 align="center">Hi 👋, I'm Chris Perry</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 align="center">Hi 👋, I'm Chris Perry a full stack developer</h1>
+<h3 align="center">I'm passionate about all things involving the javascript ecosystem</h3>
 
 - 🔭 I’m currently working on **Dimes & Measured**
 
 - 📫 How to reach me **chrisperry.sd@gmail.com**
+
+##About me
+
+I am a fast learner and a driven developer, who likes to be challenged and work on tight schedules. I enjoy embracing and adapting to new technologies and the possibilities to make our lives better through technology.
+
+Previously to becoming a software developer I worked as trader, trading the financial markets. 
+
+Outside of work my passions include playing competitve rugby, mountain biking and travelling. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

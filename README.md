@@ -44,7 +44,7 @@ Knowledgable in Javascript technologies including Typescript, React, React Nativ
 <h1 align="center">Hi 👋, I'm Chris Perry a full stack developer</h1>
 <h3 align="center">I'm passionate about all things involving the javascript ecosystem</h3>
 
-- 🔭 I’m currently working on **Dimes & Measured**
+- 🔭 I’m currently working on **Measured & Dimes**
 
 - 📫 How to reach me **chrisperry.sd@gmail.com**
 

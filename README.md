@@ -1,33 +1,36 @@
+# Hi, I'm Chris Perry 👋
 
-# Chris Perry
+### Senior Software Engineer @ [Hipcamp](https://www.hipcamp.com) | Full-Stack Developer
 
-Hi I'm Chris - I am a Full Stack Software Engineer living in Shropshire in the Midlands. I'm passionate about creating scalable and reliable applications that provide great user experience.
+I’m a **full-stack engineer** with a focus on **scalable systems, integrations, and product delivery**.  
+I enjoy solving complex problems, shipping reliable features, and building products that connect people.  
 
-## For Fun?
+Based in **Shropshire, UK** 🌱
 
-```
-🏉 Semi-professional Rugby Player
-🏋️ Keeping Active
-```
+---
 
+## 🔭 Current Work
+- **Senior Engineer @ Hipcamp LTD** – leading work on external API integrations, scalable booking systems, and global compliance automation.  
+- Experienced in **full-stack product development** from concept to production, across high-traffic and distributed systems.  
 
-## Connect/Contact
+---
 
-👉[LinkedIn](www.linkedin.com/in/chrisDperry-sd)👈
--->
-<h1 align="center">Hi 👋, I'm Chris Perry a full stack developer</h1>
+## 🛠️ Tech & Tools
+**Core:** Ruby on Rails · Node.js · Prisma · SQL · MongoDB  
+**Frontend:** React · React Native · Chakra UI · Tailwind · Material UI  
+**Infra / Tools:** Redis · Render · AWS · Datadog  
 
-- 📫 How to reach me **chrisperry.sd@gmail.com**
+---
 
-## About me
+## 🌍 Outside of Code
+- 🚵 Downhill mountain biking  
+- 🏃 Endurance training 
+- 👶 dad  
 
-I am a fast learner and a driven developer, who likes to be challenged and work on tight schedules. I enjoy embracing and adapting to new technologies and the possibilities to make our lives better through technology.
+---
 
-Outside of work my passions include playing competitve rugby, mountain biking and travelling. 
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisdperry-sd)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chrisdperry-sd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisdperry-sd" height="30" width="40" /></a>
-</p>
-
-
+---
+⭐️ *“Always building, always learning.”*

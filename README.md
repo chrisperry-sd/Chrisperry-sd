@@ -1,6 +1,6 @@
 # Hi, I'm Chris Perry 👋
 
-### Senior Software Engineer @ [Hipcamp](https://www.hipcamp.com) | Full-Stack Developer
+### Senior Software Engineer | Full-Stack Developer
 
 I’m a **full-stack engineer** with a focus on **scalable systems, integrations, and product delivery**.  
 I enjoy solving complex problems, shipping reliable features, and building products that connect people.  
